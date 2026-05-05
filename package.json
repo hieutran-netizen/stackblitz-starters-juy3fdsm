@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "start": "node index.js",
-    "dev": "tsx watch ./src/index.ts"
+    "dev": "tsx watch ./index.ts"
   },
   "dependencies": {
     "@trpc/client": "^11.17.0",
